@@ -82,7 +82,7 @@ jQuery(function ($) {
   //      BEAR CHARACTER
   LottieScrollTrigger({
     target: "#bear-character",
-    path: "./assets/js/banner-bear.json",
+    path: "/assets/js/banner-bear.json",
     speed: "fast",
     scrub: 0.6, // seconds it takes for the playhead to "catch up"
   });
